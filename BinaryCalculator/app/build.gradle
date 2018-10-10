@@ -28,7 +28,5 @@ android {
 dependencies {
     implementation project(':feature')
     implementation project(':base')
-    debugWearApp project(path:':wear', configuration: 'debug')
-    releaseWearApp project(path:':wear', configuration: 'release')
     implementation 'com.google.android.gms:play-services-wearable:+'
 }
