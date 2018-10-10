@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    
+
+
+    defaultConfig {
+        applicationId "com.binarycalculator.ayidouble.binarycalculator.app"
+        minSdkVersion 15
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+
+
+    }
+
+    buildTypes {
+       release {
+           minifyEnabled false
+           proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+       }
+    }
+
+}
+
+dependencies {
+    implementation project(':feature')
+    implementation project(':base')
+    wearApp project(':wear')
+    implementation 'com.google.android.gms:play-services-wearable:+'
+}
