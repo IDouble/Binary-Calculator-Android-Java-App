@@ -2,6 +2,8 @@ package com.binarycalculator.ayidouble.binarycalculator;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
 
 /**
  * Skeleton of an Android Things activity.
@@ -23,10 +25,15 @@ import android.os.Bundle;
  * @see <a href="https://github.com/androidthings/contrib-drivers#readme">https://github.com/androidthings/contrib-drivers#readme</a>
  */
 public class MainActivity extends Activity {
+    private WebView webView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        webView = (WebView)findViewById(R.id.BinaryCalculatorWebView);
+        WebSettings webSettings = webView.getSettings();
+        webSettings.setJavaScriptEnabled(true);
+        webView.loadUrl("https://ayidouble.github.io/Binary-Calculator-JavaScript/");
     }
 }
