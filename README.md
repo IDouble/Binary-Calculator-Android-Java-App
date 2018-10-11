@@ -1,4 +1,4 @@
-# 📱 Binary Calculator Android Java App 📱
+# 📱 [Binary Calculator Android Java App](https://play.google.com/store/apps/details?id=com.binarycalculator.ayidouble.binarycalculator.app) 📱
 A Completely **Free** handy Calculator for binary operations 📱
 
 **Official Google Play Store Download Link** : **[https://play.google.com/store/apps/details?id=com.binarycalculator.ayidouble.binarycalculator.app](https://play.google.com/store/apps/details?id=com.binarycalculator.ayidouble.binarycalculator.app)**
