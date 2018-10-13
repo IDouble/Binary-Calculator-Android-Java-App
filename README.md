@@ -8,8 +8,6 @@ A handy **Calculator** for binary operations, that works on **all devices**. �
 Feel free to use the **Calculator** for teaching Numeral systems as an example.
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes.
 The Reason why I build this **Calculator** was, because there wasn't a good one on the Web.
-The next Project will be a ternary **Calculator** for ternary calculations with trytes and trits,
-this will be a perfect template to create such one.
 
 ## [📱 FREE Download Google Play Store: 📱](https://play.google.com/store/apps/details?id=com.binarycalculator.ayidouble.binarycalculator.app)
 ![Free Google Play Store Binary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Binary-Calculator-Google-Play.png)
