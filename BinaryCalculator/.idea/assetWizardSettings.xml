@@ -34,7 +34,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="44" />
+                                                <entry key="scalingPercent" value="72" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -46,7 +46,7 @@
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="000000" />
-                                      <entry key="foregroundImage" value="C:\Users\Admin\Desktop\Github\Binary-Calculator\img\favicon-310.png" />
+                                      <entry key="foregroundImage" value="C:\Users\Admin\Desktop\Github\Binary-Calculator-Android-Java-App\Images\Binary-Calculator-Logo.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
