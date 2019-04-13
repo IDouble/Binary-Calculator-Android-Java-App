@@ -21,7 +21,7 @@ The Reason why I build this **Calculator** was, because there wasn't a good one 
 ![Binary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Binary-Calculator-Android_1.png)
 ![Binary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Binary-Calculator-Android_2.png)
 
-## [💻 Destkop: 🖥](https://ayidouble.github.io/Binary-Calculator-JavaScript)
+## [💻 Desktop: 🖥](https://ayidouble.github.io/Binary-Calculator-JavaScript)
 ![Binary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR](Images/Binary-Calculator-v1-Image.png)
 
 **[The Binary Calculator is just a Website](https://ayidouble.github.io/Binary-Calculator-JavaScript)** that each possible device can access to.</br>
@@ -29,7 +29,7 @@ The Reason why I build this **Calculator** was, because there wasn't a good one 
 - ***[Smartphone](https://ayidouble.github.io/Binary-Calculator-JavaScript) (Android/iOS etc.) 📱***
 - ***[Tablet](https://ayidouble.github.io/Binary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 📱***
 - ***[Laptop](https://ayidouble.github.io/Binary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 💻***
-- ***[Destkop](https://ayidouble.github.io/Binary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 🖥***
+- ***[Desktop](https://ayidouble.github.io/Binary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 🖥***
 
 ## Binary Operations ➕ ➖ ➗ ✖️
 
