@@ -1,4 +1,4 @@
-# 📱 [Binary Calculator Android Java App](https://play.google.com/store/apps/details?id=com.binarycalculator.ayidouble.binarycalculator.app) 📱
+# [📱 Binary Calculator Android Java App 📱](https://ayidouble.github.io/Binary-Calculator-JavaScript)
 
 <h1 align=center>
 <img src="Images/logo-horizontal.png" width=40%>
@@ -12,7 +12,7 @@ Feel free to use the **Calculator** for teaching Numeral systems as an example.
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes.
 The Reason why I build this **Calculator** was, because there wasn't a good one on the Web.
 
-## [📱 FREE Download Google Play Store: 📱](https://play.google.com/store/apps/details?id=com.binarycalculator.ayidouble.binarycalculator.app)
+## [📱 FREE Download Google Play Store: 📱](https://ayidouble.github.io/Binary-Calculator-JavaScript)
 ![Free Google Play Store Binary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Binary-Calculator-Google-Play.png)
 
 ## [📱 Mobile (Smartphone): 📱](https://ayidouble.github.io/Binary-Calculator-JavaScript)
