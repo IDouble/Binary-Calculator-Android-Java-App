@@ -57,3 +57,5 @@ while you're typing, an algorithm already calculates every number you type and d
 - see how Hexadecimal Values are stored in Binary (ex. HTML Color Codes RGB(**255**, **255**, **255**) = RGB(**8-Bit**, **8-Bit**, **8-Bit**))
 - how much **8, 16, 32 Bit** can store, (ex. unsigned **8-Bit** can store values from **(00000000) 0 ... 255 (11111111)**)
 - see how other numeral systems are working (**ternary**, **quaternary**, **octal**, **hexadecimal**)
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
